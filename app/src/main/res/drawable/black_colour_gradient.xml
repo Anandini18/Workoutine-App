@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#0f0f0f"
+                android:endColor="#100c08"
+                android:type="linear"
+                android:angle="315"/>
+        </shape>
+    </item>
+
+
+</layer-list>
+
+<!--
+    background-color: #2d3436;
+background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+-->

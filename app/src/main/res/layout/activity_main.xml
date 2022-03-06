@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="@dimen/main_screen_padding"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/black_colour_gradient"
+    tools:context=".MainActivity">
+
+        <ImageView
+            android:paddingTop="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:src="@drawable/img2" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Welcome to"
+        style="@style/Font3"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="WORKOUTINE"
+        android:layout_gravity="center"
+        android:letterSpacing="0.25"
+        style="@style/Font2"
+        android:textSize="40sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fe5858"
+        android:text="Make Workout, Your Routine "
+        android:layout_gravity="center"
+        android:letterSpacing="0.1"
+        style="@style/Font"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBmi"
+            android:text="Check BMI"
+            android:gravity="center"
+            android:textSize="28sp"
+            android:textColor="@color/black"
+
+
+
+            style="@style/Font"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btn_background_ripple"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnHistory"
+            android:text="History"
+
+            android:paddingLeft="10dp"
+            android:paddingBottom="2dp"
+            android:drawableLeft="@drawable/history_icon"
+            android:paddingRight="20dp"
+            android:drawablePadding="5dp"
+
+            android:gravity="center"
+            android:textSize="28sp"
+            android:textColor="@color/black"
+            style="@style/Font"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+
+            android:background="@drawable/btn_background_ripple">
+
+
+
+        </androidx.appcompat.widget.AppCompatButton>
+
+
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnStart"
+        android:text="Start Workout "
+        android:gravity="center"
+        android:textSize="28sp"
+        android:textColor="@color/black"
+        style="@style/Font"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/btn_background_ripple"/>
+
+
+
+
+
+</LinearLayout>
