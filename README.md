@@ -26,23 +26,41 @@ This is a workout routine project built using Kotlin and XML. The project aims t
 
 ## Screenshots
 ### HomePage
-![1690728468329](https://github.com/Anandini18/Workoutine-App/assets/88365547/bfefbccd-6344-4ba5-8dfa-43f961ecb102)
+![1](https://github.com/Anandini18/Workoutine-App/assets/88365547/dc2baf04-123d-4e1c-8a81-0fcdabab1336)
+
+![1690728468329](https://github.com/Anandini18/Workoutine-App/assets/88365547/bfefbccd-6344-4ba5-8dfa-43f961ecb102|width=5px)
 ### BMI Calculator Page
+
+![2](https://github.com/Anandini18/Workoutine-App/assets/88365547/e29dfca2-0d23-46a5-9706-1778f0fe8ef4)
+
+
 ![1690728468298](https://github.com/Anandini18/Workoutine-App/assets/88365547/abd51b76-bad9-472e-927f-795dbf334ead)
 ![1690728468267](https://github.com/Anandini18/Workoutine-App/assets/88365547/e3fc8fb6-0739-4e56-b2d5-55ca8ceed917)
 ![1690728468241](https://github.com/Anandini18/Workoutine-App/assets/88365547/01e8769c-1b96-4d99-af80-6248159c27c3)
 
 
 ### Exercising Timer Page
+
+![3](https://github.com/Anandini18/Workoutine-App/assets/88365547/bb23b733-2746-4751-964c-1b3bac14e6e9)
+
+
 ![1690728468121](https://github.com/Anandini18/Workoutine-App/assets/88365547/1d978a0e-1bd4-4660-8279-2d139453ef8c)
 ![1690728468096](https://github.com/Anandini18/Workoutine-App/assets/88365547/37370ba5-4899-4c31-b842-1b780c5455bc)
 ![1690728468188](https://github.com/Anandini18/Workoutine-App/assets/88365547/b97f0c32-2a4e-48cf-8b8b-d52f7305f466)
 ![1690728468156](https://github.com/Anandini18/Workoutine-App/assets/88365547/a919939b-92e0-4f85-8b36-4e87a934d39e)
 ![1690728468214](https://github.com/Anandini18/Workoutine-App/assets/88365547/c0ecaf21-08cd-409a-962b-eccf3d7c47b4)
 
-### Quitting Dialog Box
+### Quitting Dialog Box & Closing Section 
+
+![4](https://github.com/Anandini18/Workoutine-App/assets/88365547/9bd7ae19-047e-41f1-95a4-608cf0d05aff)
+
+
 ![1690728468040](https://github.com/Anandini18/Workoutine-App/assets/88365547/391b6acf-d365-4a8b-a8cc-ee3ca41f1a4f)
 ### History Page
+
+![5](https://github.com/Anandini18/Workoutine-App/assets/88365547/8b143532-648f-46e4-904b-9d82aa3e569c)
+
+
 ![_storage_emulated_0_Android_data_com miui gallery_cache_SecurityShare_1690728468012](https://github.com/Anandini18/Workoutine-App/assets/88365547/f968baf0-1ff2-48a2-91de-1eb735f65326)
 ### Closing Section
 ![1690728468064](https://github.com/Anandini18/Workoutine-App/assets/88365547/2ea26162-e84a-4601-82d3-76de45854ed8)
