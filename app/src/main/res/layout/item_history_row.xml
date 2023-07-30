@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llItemRow"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_row_bg"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:padding="15dp"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:id="@+id/tvPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="1"
+        android:textColor="#fe5858"
+        android:gravity="center"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:id="@+id/tvItem"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Date"
+        android:textColor="@color/faded_orange"
+        android:gravity="center"
+        android:textSize="22sp"/>
+
+
+
+
+
+</LinearLayout>
