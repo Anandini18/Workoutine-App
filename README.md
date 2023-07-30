@@ -29,8 +29,10 @@ This is a workout routine project built using Kotlin and XML. The project aims t
 ![1](https://github.com/Anandini18/Workoutine-App/assets/88365547/dc2baf04-123d-4e1c-8a81-0fcdabab1336)
 
 ### BMI Calculator Page
+![Untitled design (1)](https://github.com/Anandini18/Workoutine-App/assets/88365547/34ecf60a-65a0-477d-b24f-24da012c0cb3)
 
-![2](https://github.com/Anandini18/Workoutine-App/assets/88365547/e29dfca2-0d23-46a5-9706-1778f0fe8ef4)
+
+
 
 
 ### Exercising Timer Page
